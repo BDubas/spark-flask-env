@@ -7,7 +7,7 @@ Differences:
 4. Mounted "shared" directory for all images
 
 The project provide necessary tools for drafting spark-based tasks. 
-By default, it can by running run.sh script.
+By default, it can by started with run.sh script.
 
 
 Instruction:
