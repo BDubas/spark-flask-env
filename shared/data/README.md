@@ -1,0 +1,1 @@
+Shared directory for data that should be processed.
