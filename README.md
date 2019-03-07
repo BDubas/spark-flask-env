@@ -12,7 +12,10 @@ By default, it can by running run.sh script.
 
 Instruction:
 1. If docker and docker-compose are not installed, run:
+```bash
 sudo apt-get update && sudo apt-get install docker docker-compose
-
+```
 2. Run script that creates db, builds images and starts the project.
+```bash
 sudo ./run.sh
+```
